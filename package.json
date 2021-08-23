@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "build": "node build.js"
+  },
   "devDependencies": {
     "esbuild": "^0.12.22",
     "fs-extra": "^10.0.0",
